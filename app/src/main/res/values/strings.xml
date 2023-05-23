@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tp3 app moviles-v3</string>
+    <string name="take_picture">Tomar Foto</string>
+    <string name="turnOnLint">Prender Linterna</string>
+</resources>
